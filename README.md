@@ -1,89 +1,89 @@
-🚀 Overview
+# 🚀 Overview
 
-This repository features a variety of coding tasks, ranging from beginner-friendly problems to intermediate challenges. Whether you're practicing string operations, list manipulations, or dictionary transformations, this repository offers a comprehensive collection of problems to enhance your Python programming skills.
+#### This repository features a variety of coding tasks, ranging from beginner-friendly problems to intermediate challenges. Whether you're practicing string operations, list manipulations, or dictionary transformations, this repository offers a comprehensive collection of problems to enhance your Python programming skills.
 
-📝 Assignment Highlights
+## 📝 Assignment Highlights
 
-Here’s what you’ll find in this repository:
+#### Here’s what you’ll find in this repository:
 
-🔤 String Manipulation Tasks
+## 🔤 String Manipulation Tasks
 
-Reverse a string 🌀.
+#### Reverse a string 🌀.
 
-Count vowels in a string 🅰️🅾️.
+#### Count vowels in a string 🅰️🅾️.
 
-Check for palindromes and anagrams 🔍.
+#### Check for palindromes and anagrams 🔍.
 
-Find all occurrences of a substring 📌.
+#### Find all occurrences of a substring 📌.
 
-Perform basic string compression 💡.
+#### Perform basic string compression 💡.
 
-Convert strings to uppercase/lowercase 🔠.
+#### Convert strings to uppercase/lowercase 🔠.
 
-Count the number of words in a string 📖.
+#### Count the number of words in a string 📖.
 
-🗂 List Operations
+## 🗂 List Operations
 
-Remove duplicates while preserving order ✂️.
+#### Remove duplicates while preserving order ✂️.
 
-Merge two sorted lists into one 🚀.
+#### Merge two sorted lists into one 🚀.
 
-Shuffle a list randomly without using built-in methods 🎲.
+#### Shuffle a list randomly without using built-in methods 🎲.
 
-Find the second largest number in a list 🏆.
+#### Find the second largest number in a list 🏆.
 
-Reverse a list in-place 🔄.
+#### Reverse a list in-place 🔄.
 
-Check if a list is sorted (ascending or descending) ✅.
+#### Check if a list is sorted (ascending or descending) ✅.
 
-🔑 Set Operations
+## 🔑 Set Operations
 
-Perform union, intersection, and difference of two sets 🔗.
+#### Perform union, intersection, and difference of two sets 🔗.
 
-Find the symmetric difference of two sets ✨.
+#### Find the symmetric difference of two sets ✨.
 
-🔍 Dictionary Challenges
+## 🔍 Dictionary Challenges
 
-Count the frequency of words in a list 🔢.
+#### Count the frequency of words in a list 🔢.
 
-Merge two dictionaries with common keys' values added together ➕.
+#### Merge two dictionaries with common keys' values added together ➕.
 
-Access values in a nested dictionary using a list of keys 🌐.
+#### Access values in a nested dictionary using a list of keys 🌐.
 
-Invert a dictionary while handling duplicate values 🔄.
+#### Invert a dictionary while handling duplicate values 🔄.
 
-🔗 Tuple-Based Problems
+## 🔗 Tuple-Based Problems
 
-Extract elements from a tuple within a range of indices 📐.
+#### Extract elements from a tuple within a range of indices 📐.
 
-Count occurrences of an element in a tuple 🔢.
+#### Count occurrences of an element in a tuple 🔢.
 
-Concatenate two tuples 🧩.
+#### Concatenate two tuples 🧩.
 
-📂 Structure
+## 📂 Structure
 
-Each solution is implemented as a separate Python script with clear and concise code. Comments and explanations are provided for better understanding.
+#### Each solution is implemented as a separate Python script with clear and concise code. Comments and explanations are provided for better understanding.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Python 🐍
+#### Python 🐍
 
-Data structures: Lists, Tuples, Sets, and Dictionaries.
+#### Data structures: Lists, Tuples, Sets, and Dictionaries.
 
-String operations and manipulations.
+#### String operations and manipulations.
 
-Functional programming tools like map(), filter(), etc.
+#### Functional programming tools like map(), filter(), etc.
 
-🎯 Goals
+## 🎯 Goals
 
-Strengthen your problem-solving and programming skills.
+#### Strengthen your problem-solving and programming skills.
 
-Deepen your understanding of Python data structures and their applications.
+#### Deepen your understanding of Python data structures and their applications.
 
-Learn best practices for writing clean and efficient Python code.
+#### Learn best practices for writing clean and efficient Python code.
 
-🤝 Contributions
+## 🤝 Contributions
 
-Contributions are welcome! Feel free to submit issues, fork the repository, and create pull requests. Let’s learn and grow together! 🚀
+#### Contributions are welcome! Feel free to submit issues, fork the repository, and create pull requests. Let’s learn and grow together! 🚀
 
-⭐ If you find this repository helpful, don’t forget to give it a star! 🌟
+## ⭐ If you find this repository helpful, don’t forget to give it a star! 🌟
